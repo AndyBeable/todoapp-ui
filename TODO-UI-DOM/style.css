@@ -1,0 +1,24 @@
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+body {
+  background-color: grey;
+}
+
+h1 {
+  color: rgba(175, 47, 47, 0.5);
+  text-align: center;
+}
+
+.todo-app {
+  outline: 1px solid black;
+  height: auto;
+  margin: auto;
+  width: 50%;
+}
+
+.add input {
+  width: 80%;
+  height: 40px;
+}
